@@ -1,6 +1,6 @@
 # Awesome-Cloud-Security-Posture-Threat-Detection
 
-# Top Cloud Security Posture & Threat Detection Ecosystem
+## Top Cloud Security Posture & Threat Detection Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cloud-Native Application Protection (CNAPP), CSPM & Runtime Threat Detection*  
