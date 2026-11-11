@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Dsscord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection?style=flat-square&color=red" alt="Open Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Security-Posture-Threat-Detection?style=flat-square&color=green" alt="License" /></a>
@@ -87,9 +87,9 @@ The following enterprise platforms offer managed multi-cloud posture, threat int
 
 Curated list of production-grade open-source tools for self-hosted cloud security posture management, Kubernetes vulnerability auditing, IaC security scanning, and kernel-level runtime threat detection.
 
-Sorted in **descending order by GitHub star count**:
+Sorted in **descending order by GitHub Stars_Count**:
 
-| Project | ⭐ Stars | 📄 License | 🛠️ Focus Area | 📝 Description |
+| Project | ⭐ GitHub_Stars | 📄 License | 🛠️ Focus Area | 📝 Description |
 |:---|:---|:---:|:---:|:---|
 | **[Trivy](https://github.com/aquasecurity/trivy)** | [![Trivy Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) | Apache-2.0 | Vulnerability & Misconfig | All-in-one scanner for container images, Git repositories, Kubernetes clusters, and AWS/cloud infrastructure misconfigurations. |
 | **[Prowler](https://github.com/prowler-cloud/prowler)** | [![Prowler Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | Apache-2.0 | Multi-Cloud CSPM | Authoritative open-source security tool for AWS, Azure, GCP, and Kubernetes with 500+ checks mapped to CIS, NIST, and PCI-DSS. |
